@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuğcan</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A Front-End Developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
 
